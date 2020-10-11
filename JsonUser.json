@@ -1,7 +1,13 @@
-[
 {
-"id": 1,
-"title": "json-server",
-"author": "typicode"
+ "data": [
+ {
+"id": 16,
+"name": "Shubha Bhattacharya",
+"email": "bhattacharya_shubha@kuphal-schiller.info",
+"gender": "Female",
+"status": "Inactive",
+"created_at": "2020-10-11T03:50:04.629+05:30",
+"updated_at": "2020-10-11T03:50:04.629+05:30"
+},
+ ]
 }
-]
